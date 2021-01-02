@@ -1,7 +1,7 @@
 * {
   font-family: "Courier New";
   font-weight: bold;
-  color: #00FF00;
+  color: #00ff00;
 }
 
 body {
@@ -11,7 +11,7 @@ body {
 #start-screen,
 #game-screen {
   text-align: center;
-  overflow: hidden;  
+  overflow: hidden;
 }
 
 #game-screen.show {
@@ -32,7 +32,7 @@ body {
 
 #start {
   background-color: black;
-  border: 5px solid #00FF00;
+  border: 5px solid #00ff00;
   border-radius: 5px;
   font-size: 3em;
   display: block;
@@ -41,7 +41,7 @@ body {
 
 #start:hover {
   cursor: pointer;
-  background-color: #00FF00;
+  background-color: #00ff00;
   color: black;
 }
 

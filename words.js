@@ -783,5 +783,5 @@ var words = [
   "written",
   "younger",
   "zealots",
-  "zealous"
+  "zealous",
 ];
